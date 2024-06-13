@@ -1,2 +1,3 @@
 # Resume-Projects
-Projects Mentioned on Resume
+Implementation of UCB and ETC algorithms
+Image Denoising with Gibbs Sampling
